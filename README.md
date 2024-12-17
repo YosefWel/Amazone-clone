@@ -34,7 +34,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/tophikmohammed1234/amazon-clone.git  
+git clone https://github.com/YosefWel/Amazone-clone.git
 cd amazon-clone  
 2. Install Dependencies
 bash
